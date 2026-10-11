@@ -1,0 +1,4 @@
+# Optional requirements: core simulation, socket demo, and VSS use only stdlib.
+# Install to enable real BLS12-381 proof-of-possession multi-signatures and PDF plots.
+py_ecc>=8.0.0,<9.0.0
+matplotlib>=3.8,<4.0
